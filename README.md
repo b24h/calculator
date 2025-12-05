@@ -21,12 +21,6 @@ It performs common arithmetic operations and demonstrates DOM manipulation, even
 - **JavaScript (Vanilla JS)** – calculator logic, DOM events
 
 
-## ▶️ How to Play
-1. Open the project in your browser.
-2. Answer the quiz questions by selecting the correct option.
-3. Your Score will be displayed at the end.
-
-
 ## 📂 Project Setup
 Clone the repository and open **index.html** in your browser:
 
