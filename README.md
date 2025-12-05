@@ -26,7 +26,7 @@ Clone the repository and open **index.html** in your browser:
 
 **git clone https://github.com/b24h/calculator.git**
 <br/>
-**cd quiz-game**
+**cd calculator**
 
 
 
